@@ -1,0 +1,31 @@
+
+
+body {
+    background: url('Weather image.png') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1, h4 {
+    color: white;
+}
+
+.table {
+    color: white;
+}
+
+.table th, .table td {
+    color: white;
+}
